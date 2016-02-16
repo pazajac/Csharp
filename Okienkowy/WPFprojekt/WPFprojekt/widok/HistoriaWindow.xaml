@@ -1,0 +1,12 @@
+﻿<Window x:Class="wzorce.HistoriaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HistoriaWindow" Height="300" Width="300">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <DataGrid x:Name="wpisy"/>
+            <Button x:Name="PokazProd" Content="Pokaz Produkty" Click="WyswietlWpisClick"/>
+            <DataGrid x:Name="zakupione"/>
+        </StackPanel>
+    </Grid>
+</Window>

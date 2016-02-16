@@ -1,0 +1,66 @@
+﻿<Window x:Class="wzorce.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Technologie Obiektowe - Magazyn" Height="600" Width="800">
+    <StackPanel>
+        <StackPanel.Background>
+            <LinearGradientBrush EndPoint="0.504,1.5" StartPoint="0.504,0.03">
+                <GradientStop Color="#FFFFC934" Offset="0"/>
+                <GradientStop  Color="Azure"  Offset="0.567"/>
+            </LinearGradientBrush>
+        </StackPanel.Background>
+        <StackPanel VerticalAlignment="Top">
+            <TextBlock HorizontalAlignment="Center" FontSize="30" Text="Technologie Obiektowe - Projekt zaliczeniowy" />
+            <TextBlock>Patryk Zając, nr albumu: 105008 <LineBreak/>
+            Zastosowane Wzorce: <LineBreak/>
+            1. Budowniczy, 2. Metoda Wytwórcza 3. Prototyp, 4. Dekorator, 5. MVC <LineBreak/>
+            6. Singleton, 7. Multiton, 8. Iterator, 9. Obserwator, 10. Odwiedzający <LineBreak/> 
+            </TextBlock>
+        </StackPanel>
+        <StackPanel Background="AntiqueWhite"  HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <StackPanel Orientation="Horizontal" Width="500">
+                <TreeView x:Name="treeView" Background="Beige" Width="100">
+                    <TreeViewItem IsSelected="True" Header ="Meble" PreviewMouseDoubleClick="treeViewMebleClick">
+                        <TreeViewItem.Items>
+                            <TreeViewItem Header ="Meble Pokojowe" PreviewMouseDoubleClick="treeViewPokojoweClick">
+                                <!---<TreeViewItem.Items>
+                                    <TreeViewItem Header="Sofa" PreviewMouseDoubleClick="treeViewSofaClick" />
+                                    <TreeViewItem Header="Szafa" PreviewMouseDoubleClick="treeViewSzafaClick" />
+                                    <TreeViewItem Header="Komoda" PreviewMouseDoubleClick="treeViewKomodaClick" />
+                                </TreeViewItem.Items>-->
+                            </TreeViewItem>
+                            <TreeViewItem Header ="Meble Biurowe" PreviewMouseDoubleClick="treeViewBiuroweClick">
+                                <!--<TreeViewItem.Items>
+                                    <TreeViewItem Header="Biurko" PreviewMouseDoubleClick="treeViewBiurkoClick" />
+                                    <TreeViewItem Header="Fotel" PreviewMouseDoubleClick="treeViewFotelClick" />
+                                    <TreeViewItem Header="Sejf" PreviewMouseDoubleClick="treeViewSejfClick" />
+                                </TreeViewItem.Items>-->
+                            </TreeViewItem>
+                        </TreeViewItem.Items>
+                    </TreeViewItem>
+                </TreeView>
+                <StackPanel>
+                    <TextBlock Text="Magazyn : "/>
+                    <DataGrid x:Name="mDgr"/>
+                    <TextBlock Text="Klient : "/>
+                    <DataGrid x:Name="kDgr"/>
+                    <Button x:Name="ZakonczZakupy" Content="Przejdź do kasy" Click="ZakonczZakup_Click"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <TextBlock Text="Ilość : "/>
+                    <TextBox x:Name="iloscTow" Text="0" Width="100"/>
+                    <Button x:Name="Kupuj" Content="Kup" Background="LightBlue" Foreground="Black" FontSize="15" FontWeight="ExtraBold" Click="Kupuj_Click"/>
+                    <TextBlock x:Name="Koszty" Width="150" />
+                    <TextBlock Text="Wprowadź Cene:"/>
+                    <TextBox x:Name="NowaCena" Text="0" Width="100"/>
+                    <Button x:Name="ZmianaCeny" Content="Zmiana Ceny" Click="ZmienCeneClick"/>
+                    <TextBlock Text="Zawartość Portfela : "/>
+                    <TextBox x:Name="ZawPortfel" Text="0" Width="100"/>
+                    <TextBlock x:Name="Portfel" Width="150" />
+                </StackPanel>
+            </StackPanel>
+            <Button Foreground="Navy" FontSize="15" Content="Historia" x:Name="hist" Click="hist_Click" />
+        </StackPanel>
+    </StackPanel>
+</Window>

@@ -1,0 +1,39 @@
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\bin\Debug\WPFprojekt.exe.config
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.csprojResolveAssemblyReference.cache
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\MainWindow.baml
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\MainWindow.g.cs
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\App.g.cs
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt_MarkupCompile.cache
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.g.resources
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.Properties.Resources.resources
+C:\Users\pzajac\Desktop\Csharp\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.csproj.GenerateResource.Cache
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\bin\Debug\WPFprojekt.exe.config
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\App.g.cs
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt_MarkupCompile.cache
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.g.resources
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.Properties.Resources.resources
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.csproj.GenerateResource.Cache
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\bin\Debug\WPFprojekt.exe
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\bin\Debug\WPFprojekt.pdb
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.exe
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.pdb
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\MainWindow.baml
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\MainWindow.g.cs
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\widok\HistoriaWindow.baml
+C:\Users\Klaudia\Desktop\TO\Po świętach\WPFprojekt\WPFprojekt\obj\Debug\widok\HistoriaWindow.g.cs
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\bin\Debug\WPFprojekt.exe.config
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.exe
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.pdb
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\bin\Debug\WPFprojekt.exe
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\bin\Debug\WPFprojekt.pdb
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\MainWindow.baml
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\widok\HistoriaWindow.baml
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\MainWindow.g.cs
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\widok\HistoriaWindow.g.cs
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\App.g.cs
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt_MarkupCompile.cache
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.g.resources
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.Properties.Resources.resources
+C:\Users\Klaudia\Desktop\TO\PatrykZajacTO\ProjektZaliczeniowyTO\Okienkowy\WPFprojekt\WPFprojekt\obj\Debug\WPFprojekt.csproj.GenerateResource.Cache
